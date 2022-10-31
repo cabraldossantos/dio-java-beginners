@@ -23,3 +23,5 @@
 hs_err_pid*
 types-and-variables/.vscode/settings.json
 smart-tv/.vscode/settings.json
+documentation/.vscode/settings.json
+
